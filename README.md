@@ -5,9 +5,9 @@
 <br>
 
 <div align="center">
-  <h3> 🐧 $ whoami | grep "Cloud & Security Specialist" </h3>
+  <h3> 🐧 $ whoami | grep "Cloud & Security Specialist" <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /></h3>
   <p>
-    I am <b>Mansour</b>, a highly driven professional holding a <b>Bachelor of Science in Information Technology</b>, heavily focusing on <b>Cloud Infrastructure and Security</b>. My expertise lies in architecting resilient environments, automating complex network operations, and enforcing strict security paradigms across on-premise and cloud ecosystems. ☁️🛡️
+    I am <b>Mansour</b>, a highly driven professional holding a <b>Bachelor of Science in Cloud Infrastructure and Security</b>. My expertise lies in architecting resilient cloud environments, automating complex network operations, and enforcing strict security paradigms across on-premise and cloud ecosystems. 
   </p>
 </div>
 
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ Technical Arsenal
+###  Technical Arsenal
 
 <div align="center">
   <p><strong>Networking & Automation</strong></p>
@@ -29,16 +29,16 @@
   <p><strong>Cloud & Security</strong></p>
   <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/CompTIA_Security+-FF0000?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+" />
-  <img src="https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&angle=0&logoColor=white" alt="Terraform" />
 </div>
 
 ---
 
-### 🚀 Current Trajectory & Focus
+###  Current Trajectory & Focus
 
-*    🔐 **Imminent Milestone:** Finalizing preparation for the **CompTIA Security+** certification exam.
-*    ☁️ **Cloud Expansion:** Actively mastering **AWS Solutions Architect** principles alongside **Terraform** for Infrastructure as Code (IaC).
-*    🏗️ **Portfolio Development:** Deploying production-ready repositories bridging networking, security, and cloud automation.
+*  **Imminent Milestone:** Finalizing preparation for the **CompTIA Security+** certification exam.
+*  **Cloud Expansion:** Actively mastering **AWS Solutions Architect** principles alongside **Terraform** for Infrastructure as Code (IaC).
+*  **Portfolio Development:** Deploying production-ready repositories bridging networking, security, and cloud automation.
 
 ---
 
@@ -46,32 +46,32 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/MansourMutlaq/IoT-Smart-Wheelchair">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=IoT-ESP32-Smart-Wheelchair&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="IoT Graduation Project" width="100%" />
-      </a>
-      <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #4CAF50;">[████████████████████] 100%</span></div>
-      <div align="center"><small>🎓 <b>Official Graduation Project</b></small></div>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/MansourMutlaq/Cisco-Network-Automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=Cisco-Network-Automation&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Cisco Network Automation" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=Cisco-Network-Automation&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Cisco Network Automation" width="100%" />
       </a>
       <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[███████████████░░░░░] 75%</span></div>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/MansourMutlaq/Security-Log-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=Security-Log-Analyzer&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Security Log Analyzer" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=Security-Log-Analyzer&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Security Log Analyzer" width="100%" />
       </a>
       <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[██████████░░░░░░░░░░] 50%</span></div>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <a href="https://github.com/MansourMutlaq/AWS-Terraform-Secure-VPC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=AWS-Terraform-Secure-VPC&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="AWS Terraform VPC" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=AWS-Terraform-Secure-VPC&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="AWS Terraform VPC" width="100%" />
       </a>
-      <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[████░░░░░░░░░░░░░░░░] 20%</span></div>
+      <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[████░░░░░░░░░░░░░░░░] 20% (Target: July 11)</span></div>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MansourMutlaq/IoT-Smart-Wheelchair">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=IoT-Smart-Wheelchair&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="IoT Graduation Project" width="100%" />
+      </a>
+      <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #4CAF50;">[████████████████████] 100%</span></div>
+      <div align="center" style="margin-top: 2px;"><small>🎓 <b>Official Graduation Project</b></small></div>
     </td>
   </tr>
 </table>
@@ -85,7 +85,7 @@
     <td width="50%" align="center" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 6px; background-color: #0d1117;">
       <h4 style="color: #58a6ff; margin-bottom: 5px;">🏆 Verified Badges</h4>
       <hr style="border-color: #30363d;">
-      <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">
+      <a href="ضع_رابط_Credly_هنا" target="_blank">
         <img src="assets/ccna_med.jpg" width="120" alt="Cisco Certified CCNA" />
       </a>
       <br><br>
@@ -109,7 +109,7 @@
 ### 📮 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mansour-mu-alharbi">
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mansour-alharbi@outlook.com">
