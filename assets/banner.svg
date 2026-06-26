@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 140" width="100%" height="140">
+  <style>
+    .text-mono {
+      font-family: 'Fira Code', 'Ubuntu Mono', 'Courier New', monospace;
+    }
+    .name {
+      font-weight: 700;
+      font-size: 26px;
+      fill: #ffffff;
+      letter-spacing: 2px;
+    }
+    .title {
+      font-weight: 600;
+      font-size: 16px;
+      fill: #00f2fe;
+      letter-spacing: 1px;
+    }
+    .prompt {
+      fill: #6272a4;
+      font-size: 18px;
+    }
+  </style>
+
+  <rect width="100%" height="100%" fill="#0d1117" rx="8" stroke="#30363d" stroke-width="1.5"/>
+
+  <circle cx="25" cy="22" r="5" fill="#ff5555"/>
+  <circle cx="42" cy="22" r="5" fill="#ffb86c"/>
+  <circle cx="59" cy="22" r="5" fill="#50fa7b"/>
+
+  <g transform="translate(40, 65)">
+    <text x="0" y="0" class="text-mono name">
+      <tspan class="prompt">&gt; </tspan>Mansour Alharbi
+    </text>
+    
+    <text x="0" y="32" class="text-mono title">
+      <tspan class="prompt">&gt; </tspan>Cloud Infrastructure &amp; Security Specialist
+    </text>
+
+    <text x="0" y="62" class="text-mono prompt">&gt; <tspan fill="#00f2fe">█</tspan>
+      <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+    </text>
+  </g>
+</svg>
