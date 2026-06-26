@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <h3> 🐧 $ whoami | grep "Cloud & Security Specialist" <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /></h3>
+  <h3> 🐧 $ whoami | grep "Cloud & Security Specialist" </h3>
   <p>
     I am <b>Mansour</b>, a highly driven professional holding a <b>Bachelor of Science in Information Technology</b>, heavily focusing on <b>Cloud Infrastructure and Security</b>. My expertise lies in architecting resilient environments, automating complex network operations, and enforcing strict security paradigms across on-premise and cloud ecosystems. ☁️🛡️
   </p>
@@ -47,13 +47,20 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/mansor7rb/Cisco-Network-Automation">
+      <a href="https://github.com/MansourMutlaq/IoT-Smart-Wheelchair">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=IoT-ESP32-Smart-Wheelchair&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="IoT Graduation Project" width="100%" />
+      </a>
+      <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #4CAF50;">[████████████████████] 100%</span></div>
+      <div align="center"><small>🎓 <b>Official Graduation Project</b></small></div>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/MansourMutlaq/Cisco-Network-Automation">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=Cisco-Network-Automation&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Cisco Network Automation" width="100%" />
       </a>
       <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[███████████████░░░░░] 75%</span></div>
     </td>
     <td width="50%">
-      <a href="https://github.com/mansor7rb/Security-Log-Analyzer">
+      <a href="https://github.com/MansourMutlaq/Security-Log-Analyzer">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=Security-Log-Analyzer&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Security Log Analyzer" width="100%" />
       </a>
       <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[██████████░░░░░░░░░░] 50%</span></div>
@@ -61,17 +68,10 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/mansor7rb/AWS-Terraform-Secure-VPC">
+      <a href="https://github.com/MansourMutlaq/AWS-Terraform-Secure-VPC">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=AWS-Terraform-Secure-VPC&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="AWS Terraform VPC" width="100%" />
       </a>
       <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #FF9900;">[████░░░░░░░░░░░░░░░░] 20%</span></div>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mansor7rb/IoT-ESP32-Smart-Wheelchair">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mansor7rb&repo=IoT-ESP32-Smart-Wheelchair&title_color=ff3366&bg_color=161b22&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="IoT Graduation Project" width="100%" />
-      </a>
-      <div align="center" style="margin-top: 5px;"><code>Status:</code> <span style="color: #4CAF50;">[████████████████████] 100%</span></div>
-      <div align="center"><small>🎓 <b>Official Graduation Project</b></small></div>
     </td>
   </tr>
 </table>
