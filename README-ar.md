@@ -56,7 +56,7 @@
 
 <br>
 <div align="center">
-  <img src="under-construction.gif" alt="Under Construction" width="60%">
+  <img src="assets/under-construction.gif" alt="Under Construction" width="60%">
 </div>
 <br>
 
