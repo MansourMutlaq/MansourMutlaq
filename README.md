@@ -20,7 +20,7 @@
 
 <div align="center">
   <p>📫 <b>How to reach me:</b></p>
-  <a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="35" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/iirtac" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="35" alt="X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:mansour-alharbi@outlook.com"><img src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078d4" width="35" alt="Outlook" /></a>
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="35" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/iirtac" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="35" alt="X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com" target="_blank"><img src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078d4" width="35" alt="Outlook" /></a>
 </div>
 <br>
 
