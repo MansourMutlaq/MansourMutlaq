@@ -1,125 +1,191 @@
-<div align="right">
-  <a href="README.md"><img src="https://flagcdn.com/w20/us.png" width="16" alt="US"> <b>English</b></a> &nbsp; | &nbsp; <a href="README-ar.md"><img src="https://flagcdn.com/w20/sa.png" width="16" alt="SA"> <b>العربية</b></a>
+<div align="right" dir="ltr">
+<a href="README.md"><img src="https://flagcdn.com/w20/us.png" width="16" alt="English"> <b>English</b></a>
+&nbsp; | &nbsp;
+<a href="README-ar.md"><img src="https://flagcdn.com/w20/sa.png" width="16" alt="العربية"> <b>العربية</b></a>
 </div>
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Mansour Banner" width="100%">
+<img src="assets/banner.svg" alt="Mansour Alharbi Banner" width="100%">
 </div>
 
 <br>
 
 <div align="center">
-  <h3 dir="rtl"> 🐧 $ whoami | grep "متخصص في الحوسبة السحابية والأمن الرقمي" <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" /></h3>
-  <p dir="rtl">
-    أهلاً، أنا <b>منصور</b>، خريج تقنية معلومات مهتم بالحوسبة السحابية والأمن الرقمي.<br><br>
-    أركز على هندسة بيئات سحابية مرنة، أتمتة عمليات الشبكات، وتطبيق نماذج أمنية صارمة. أعمل حالياً على صقل قدراتي التقنية من خلال الشهادات المهنية والمشاريع العملية.
-  </p>
+<h3 dir="ltr">$ whoami | grep "Cloud Infrastructure & Network Automation" <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Developer GIF"></h3>
+
+<p dir="rtl">
+مرحبًا، أنا <b>منصور الحربي</b>، خريج بكالوريوس تقنية المعلومات وحاصل على شهادة
+<bdi dir="ltr"><b>CCNA</b></bdi>،
+وأركز مهنيًا على البنية التحتية السحابية والشبكات والأتمتة.
+<br><br>
+أطوّر مهاراتي العملية من خلال مشاريع أتمتة الشبكات، وتحليل السجلات الأمنية،
+ومعمارية خدمات <bdi dir="ltr">AWS</bdi>، وإدارة البنية التحتية ككود باستخدام
+<bdi dir="ltr">Terraform</bdi>.
+</p>
 </div>
 
 <br>
 
 <div align="center">
-  <p dir="rtl">📫 <b>كيفية التواصل معي:</b></p>
-  <a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="35" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://x.com/iirtac" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=white" width="35" alt="X" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com" target="_blank"><img src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078d4" width="35" alt="Outlook" /></a>
+<p dir="rtl"><b>وسائل التواصل</b></p>
+<a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/iirtac" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff" width="35" alt="X"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com" target="_blank"><img src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078d4" width="35" alt="Outlook"></a>
 </div>
+
 <br>
 
 ---
 
-<h3 align="right" dir="rtl"> الترسانة التقنية</h3>
+### المهارات التقنية الأساسية
 
 <div align="center">
-  <p dir="rtl"><strong>الشبكات والأتمتة</strong></p>
-  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Netmiko_&_Paramiko-4B275F?style=for-the-badge" alt="Netmiko" />
-  <img src="https://img.shields.io/badge/Linux_CLI-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<p dir="rtl"><strong>الشبكات والأتمتة</strong></p>
+<img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS">&nbsp;
+<img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation">&nbsp;
+<img src="https://img.shields.io/badge/Netmiko_%26_Paramiko-4B275F?style=for-the-badge" alt="Netmiko and Paramiko">&nbsp;
+<img src="https://img.shields.io/badge/Linux_Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Fundamentals">
 </div>
 
 <div align="center">
-  <p dir="rtl"><strong>السحابة والأمن</strong></p>
-  <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&angle=0&logoColor=white" alt="Terraform" />
+<p dir="rtl"><strong>البنية التحتية السحابية</strong></p>
+<img src="https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Cloud">&nbsp;
+<img src="https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform IaC">
 </div>
 
 ---
 
-<h3 align="right" dir="rtl"> المسار الحالي والتركيز</h3>
+### مجالات التركيز الحالية
 
-<div align="right" dir="rtl">
+<div dir="rtl">
 
-*  **التوسع السحابي:** إتقان مبادئ **AWS Solutions Architect** بنشاط إلى جانب **Terraform** للبنية التحتية ككود (IaC).
-*  **تطوير المشاريع:** نشر مستودعات جاهزة للإنتاج تربط بين الشبكات، الأمن، والأتمتة السحابية.
+- الاستعداد للحصول على شهادة <bdi dir="ltr"><b>AWS Certified Solutions Architect – Associate</b></bdi>.
+- تطوير المهارات العملية في <bdi dir="ltr"><b>Terraform</b></bdi> وإدارة البنية التحتية ككود.
+- نشر مشاريع تقنية موثقة في الشبكات، والتحليل الأمني، والبنية التحتية السحابية.
 
 </div>
 
 ---
 
 <br>
+
 <div align="center">
-  <img src="assets/under-construction.gif" alt="Under Construction" width="60%">
+<img src="assets/under-construction.gif" alt="المشاريع قيد التطوير" width="60%">
 </div>
+
 <br>
 
+### المشاريع الهندسية
 
-<h3 align="right" dir="rtl">📂 أبرز المشاريع الهندسية</h3>
+<div dir="rtl" align="right">
 
-<table width="100%" dir="ltr">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MansourMutlaq/IoT-Smart-Wheelchair">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=IoT-Smart-Wheelchair&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="IoT Graduation Project" width="100%" />
-      </a>
-      <div align="center" style="margin-top: 5px;"><code>الحالة:</code> <span style="color: #4CAF50;">[████████████████████] 100%</span></div>
-      <div align="center" style="margin-top: 2px;"><small>🎓 <b>مشروع التخرج الرسمي</b></small></div>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MansourMutlaq/Cisco-Network-Automation">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=Cisco-Network-Automation&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Cisco Network Automation" width="100%" />
-      </a>
-      <div align="center" style="margin-top: 5px;"><code>الحالة:</code> <span style="color: #FF9900;">[███████████████░░░░░] 75%</span></div>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MansourMutlaq/Security-Log-Analyzer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=Security-Log-Analyzer&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="Security Log Analyzer" width="100%" />
-      </a>
-      <div align="center" style="margin-top: 5px;"><code>الحالة:</code> <span style="color: #FF9900;">[██████████░░░░░░░░░░] 50%</span></div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MansourMutlaq/AWS-Terraform-Secure-VPC">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MansourMutlaq&repo=AWS-Terraform-Secure-VPC&title_color=ff3366&bg_color=0d1117&text_color=ffffff&icon_color=e3b341&border_color=30363d" alt="AWS Terraform VPC" width="100%" />
-      </a>
-      <div align="center" style="margin-top: 5px;"><code>الحالة:</code> <span style="color: #FF9900;">[████░░░░░░░░░░░░░░░░] 20%</span></div>
-    </td>
-  </tr>
+<h4>
+<a href="https://github.com/MansourMutlaq/Cisco-Network-Automation">
+<bdi dir="ltr">Cisco Network Automation</bdi>
+</a>
+</h4>
+
+<p>
+أداة مبنية بلغة <bdi dir="ltr">Python</bdi> لأتمتة إدارة أجهزة
+<bdi dir="ltr">Cisco IOS</bdi>، وتشمل معالجة بيانات الأجهزة، وأخذ النسخ الاحتياطية
+من الإعدادات، وتنفيذ الأوامر، ونشر الإعدادات باستخدام القوالب، وتسجيل العمليات،
+وإنشاء التقارير.
+</p>
+
+<p>
+<strong>التقنيات المستخدمة:</strong>
+<bdi dir="ltr">Python · Netmiko · Paramiko · YAML · Cisco IOS</bdi>
+<br>
+<strong>الحالة:</strong> مكتمل
+</p>
+
+<hr>
+
+<h4>
+<a href="https://github.com/MansourMutlaq/AWS-Terraform-Secure-VPC">
+<bdi dir="ltr">AWS Secure VPC with Terraform</bdi>
+</a>
+</h4>
+
+<p>
+مشروع بنية تحتية ككود لإنشاء بيئة شبكية آمنة على
+<bdi dir="ltr">AWS</bdi>، تتضمن شبكات عامة وخاصة، وجداول توجيه منظمة،
+وضوابط وصول، وإعدادات <bdi dir="ltr">Terraform</bdi> قابلة لإعادة الاستخدام.
+</p>
+
+<p>
+<strong>التقنيات المستخدمة:</strong>
+<bdi dir="ltr">AWS VPC · Terraform · Subnets · Route Tables · Security Groups</bdi>
+<br>
+<strong>الحالة:</strong> قيد التطوير
+</p>
+
+<hr>
+
+<h4>
+<a href="https://github.com/MansourMutlaq/Security-Log-Analyzer">
+<bdi dir="ltr">Automated Security Log Analyzer</bdi>
+</a>
+</h4>
+
+<p>
+أداة أمنية مبنية بلغة <bdi dir="ltr">Python</bdi> لتحليل سجلات الأنظمة،
+واكتشاف الأنماط المشبوهة في محاولات المصادقة، وإنتاج نتائج منظمة تساعد
+في المراجعة والتحقيق الأولي.
+</p>
+
+<p>
+<strong>التقنيات المستخدمة:</strong>
+<bdi dir="ltr">Python · Regular Expressions · Log Parsing · Threat Detection</bdi>
+<br>
+<strong>الحالة:</strong> قيد التطوير
+</p>
+
+<hr>
+
+<h4>
+<a href="https://github.com/MansourMutlaq/IoT-Smart-Wheelchair">
+<bdi dir="ltr">IoT-Enabled Solar-Powered Smart Wheelchair</bdi>
+</a>
+</h4>
+
+<p>
+مشروع تخرج يجمع بين الأنظمة المضمنة، والاتصال بإنترنت الأشياء،
+واكتشاف العوائق، ومراقبة المؤشرات الصحية، والتشغيل بالطاقة الشمسية؛
+بهدف تعزيز سلامة المستخدم واستقلاليته.
+</p>
+
+<p>
+<strong>التقنيات المستخدمة:</strong>
+<bdi dir="ltr">ESP32 · C/C++ · IoT Sensors · Embedded Systems</bdi>
+<br>
+<strong>الحالة:</strong> مكتمل — مشروع التخرج
+</p>
+
+</div>
+
+---
+
+### خارطة الشهادات الاحترافية
+
+<table width="100%">
+<tr>
+<td width="50%" align="center" valign="top">
+<h4>الشهادة المعتمدة</h4>
+<hr>
+<a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank"><img src="assets/ccna_med.jpg" width="120" alt="Cisco Certified Network Associate"></a>
+<br><br>
+<strong><bdi dir="ltr">Cisco Certified Network Associate — CCNA</bdi></strong>
+<br><br>
+<a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">التحقق من الشهادة</a>
+</td>
+
+<td width="50%" align="center" valign="top">
+<h4>الشهادات قيد التحضير</h4>
+<hr>
+<strong><bdi dir="ltr">AWS Certified Solutions Architect – Associate</bdi></strong>
+<br><br>
+<strong><bdi dir="ltr">HashiCorp Certified: Terraform Associate</bdi></strong>
+</td>
+</tr>
 </table>
-
----
-
-<h3 align="right" dir="rtl">📜 خارطة طريق الشهادات</h3>
-
-<table width="100%" dir="ltr">
-  <tr>
-    <td width="50%" align="center" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 6px; background-color: #0d1117;">
-      <h4 style="color: #58a6ff; margin-bottom: 5px;"> شارات موثقة</h4>
-      <hr style="border-color: #30363d;">
-      <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">
-        <img src="assets/ccna_med.jpg" width="120" alt="Cisco Certified CCNA" />
-      </a>
-      <br><br>
-      <strong>مساعد شبكات معتمد من سيسكو (CCNA)</strong>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; padding: 15px; border-radius: 6px; background-color: #0d1117;">
-      <h4 style="color: #ff3366; margin-bottom: 5px;"> مساعي نشطة</h4>
-      <hr style="border-color: #30363d;">
-      📌 <strong>AWS Solutions Architect (SAA-C03)</strong> <br>
-      <code>الحالة:</code> <span style="color: #FF9900;">[██████░░░░░░░░░░░░░░] 30%</span><br><br>
-      📌 <strong>Terraform Associate</strong> <br>
-      <code>الحالة:</code> <span style="color: #7B42BC;">[█░░░░░░░░░░░░░░░░░░░] 5%</span>
-    </td>
-  </tr>
-</table>
-
----
