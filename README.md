@@ -66,13 +66,18 @@ I am developing practical skills through network automation, security log analys
 
 <br>
 
-### Featured Engineering Projects
+## Featured Engineering Projects
 
-#### [Cisco Network Automation](https://github.com/MansourMutlaq/Cisco-Network-Automation)
+### [Cisco IOS Network Automation Toolkit](https://github.com/MansourMutlaq/Cisco-Network-Automation)
 
-Python-based automation toolkit for managing Cisco IOS devices, including inventory processing, configuration backups, command execution, templated configuration deployment, logging, and reporting.
+A modular Python network automation toolkit built and validated against a live six-device Cisco IOS environment in EVE-NG. The project provides YAML-based device inventory, secure runtime credential loading, Netmiko SSH validation, timestamped running-configuration backups, Jinja2 configuration rendering, tested deployment and rollback components, structured logging, and operational reporting.
 
-**Technologies:** Python · Netmiko · Paramiko · YAML · Cisco IOS  
+**Validated Results**
+- Netmiko SSH connectivity: **6/6 devices**
+- Running-configuration backups: **6/6 devices**
+- Automated pytest suite: **30/30 passed**
+
+**Technologies:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG  
 **Status:** Completed
 
 ---
