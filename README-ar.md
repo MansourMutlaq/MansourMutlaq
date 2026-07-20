@@ -81,20 +81,45 @@
 
 <h4>
 <a href="https://github.com/MansourMutlaq/Cisco-Network-Automation">
-<bdi dir="ltr">Cisco Network Automation</bdi>
+<bdi dir="ltr">Cisco IOS Network Automation Toolkit</bdi>
 </a>
 </h4>
 
 <p>
-أداة مبنية بلغة <bdi dir="ltr">Python</bdi> لأتمتة إدارة أجهزة
-<bdi dir="ltr">Cisco IOS</bdi>، وتشمل معالجة بيانات الأجهزة، وأخذ النسخ الاحتياطية
-من الإعدادات، وتنفيذ الأوامر، ونشر الإعدادات باستخدام القوالب، وتسجيل العمليات،
-وإنشاء التقارير.
+مشروع أتمتة شبكات مبني بلغة <bdi dir="ltr">Python</bdi>،
+طوّرته واختبرته على بيئة فعلية تضم ستة أجهزة
+<bdi dir="ltr">Cisco IOS</bdi> داخل منصة <bdi dir="ltr">EVE-NG</bdi>.
+يعتمد المشروع على ملف <bdi dir="ltr">YAML</bdi> لإدارة بيانات الأجهزة،
+ويحمّل بيانات الدخول وقت التشغيل دون تخزينها داخل الكود،
+ويتصل بالأجهزة عبر <bdi dir="ltr">SSH</bdi> باستخدام
+<bdi dir="ltr">Netmiko</bdi>.
+</p>
+
+<p>
+ينفذ المشروع التحقق من الاتصال على عدة أجهزة، وينشئ نسخًا احتياطية مؤرخة
+من إعدادات التشغيل، ويرندر الإعدادات من قوالب
+<bdi dir="ltr">Jinja2</bdi>.
+ويتضمن كذلك مكونات مختبرة للنشر المنضبط، والتحقق بعد التغيير،
+والتراجع عند فشل التحقق، وتسجيل الأحداث، وإنشاء التقارير التشغيلية.
+</p>
+
+<p>
+<strong>النتائج الموثقة:</strong>
+<br>
+نجاح اتصال <bdi dir="ltr">Netmiko SSH</bdi> على
+<bdi dir="ltr">6/6</bdi> أجهزة
+<br>
+نجاح النسخ الاحتياطي للإعدادات على
+<bdi dir="ltr">6/6</bdi> أجهزة
+<br>
+اجتياز
+<bdi dir="ltr">30/30</bdi>
+اختبارًا آليًا باستخدام <bdi dir="ltr">pytest</bdi>
 </p>
 
 <p>
 <strong>التقنيات المستخدمة:</strong>
-<bdi dir="ltr">Python · Netmiko · Paramiko · YAML · Cisco IOS</bdi>
+<bdi dir="ltr">Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG</bdi>
 <br>
 <strong>الحالة:</strong> مكتمل
 </p>
