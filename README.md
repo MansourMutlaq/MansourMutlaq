@@ -77,7 +77,7 @@ I build documented engineering projects using AWS, Terraform, Python, Linux, Cis
 
 <br>
 
-## Featured Engineering Projects
+## Featured Technical Projects
 
 ### [Cisco IOS Network Automation Toolkit](https://github.com/MansourMutlaq/Cisco-Network-Automation)
 
@@ -116,7 +116,7 @@ A multi-source infrastructure security analytics pipeline that ingests AWS Cloud
 
 A capstone engineering project integrating embedded software, IoT connectivity, obstacle detection, health monitoring, GPS-based location support, and solar-powered operation to improve user safety and independence. The system uses ESP32-based control, multiple sensors, real-time alerts, and energy-aware design.
 
-**Engineering Contributions**
+**Project Contributions**
 
 - Led the project architecture and team delivery
 - Integrated embedded control, IoT communication, and sensor-based safety functions
@@ -152,7 +152,7 @@ The application layer remains intentionally lightweight so the project can focus
 - Encrypted S3 Terraform state with versioning and native state locking
 - Reusable Terraform modules with separate development and production configurations
 
-**Engineering Controls**
+**Technical & Operational Controls**
 
 - GitHub Actions authentication to AWS through OIDC and temporary credentials
 - Separate Terraform plan and controlled apply workflows
