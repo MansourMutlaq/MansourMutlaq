@@ -85,13 +85,12 @@
 - التخطيط لبناء مختبر منزلي هجين بمستوى مؤسسي يشمل المحاكاة الافتراضية، و<bdi dir="ltr">Windows Server</bdi>، وإدارة <bdi dir="ltr">Linux</bdi>، و<bdi dir="ltr">Active Directory</bdi>، و<bdi dir="ltr">DNS</bdi>، و<bdi dir="ltr">DHCP</bdi>، وتقسيم الشبكات، والمراقبة، والنسخ الاحتياطي، والربط الهجين مع <bdi dir="ltr">AWS</bdi>.
 
 </div>
----
 
 <br>
 
 <div align="center" dir="rtl">
-<strong>حالة البورتفوليو:</strong>
-3 مشاريع مكتملة وموثقة · مشروع <bdi dir="ltr">AWS</bdi> و<bdi dir="ltr">Terraform</bdi> قيد التطوير الفعلي
+<strong>حالة المشاريع:</strong>
+3 مشاريع مكتملة وموثقة · مشروع <bdi dir="ltr">AWS</bdi> و<bdi dir="ltr">Terraform</bdi> قيد التطوير حاليًا
 </div>
 
 <br>
@@ -256,7 +255,7 @@
 <br>
 <strong>الحالة:</strong> قيد التطوير
 <br>
-<strong>بدأت:</strong> يوليو 2026
+<strong>تاريخ البدء:</strong> يوليو 2026
 <br>
 <strong>الفترة المستهدفة:</strong> أوائل أغسطس 2026
 </p>
