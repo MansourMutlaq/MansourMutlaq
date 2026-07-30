@@ -62,17 +62,17 @@ I build documented engineering projects using AWS, Terraform, Python, Linux, Cis
 
 ---
 
-### Current Focus
+### Technical Focus & Roadmap
 
-- Applying for **Cloud Infrastructure, Cloud Operations, DevOps, Infrastructure Automation, and Network Automation** roles in Riyadh.
-- Preparing for technical interviews across **AWS architecture, Terraform, Linux administration, Python automation, networking, and cloud security**.
-- Building a production-oriented **Secure Multi-AZ AWS Application Platform with Terraform** starting in August 2026.
-- Converting certification knowledge into deployable, tested, documented, and interview-ready engineering projects.
-
+- Designing secure AWS architectures with reusable Terraform modules, environment separation, private networking, and least-privilege access controls.
+- Building automation and observability across cloud, Linux, and network infrastructure.
+- Developing a Secure Multi-AZ AWS Application Platform with Terraform to demonstrate high availability, secure delivery, monitoring, and cost-aware operations.
+- Planning an enterprise hybrid infrastructure home lab covering virtualization, Windows Server, Linux administration, Active Directory, DNS, DHCP, network segmentation, monitoring, backup, and hybrid AWS connectivity.
 ---
 
 <div align="center">
-<strong>Portfolio Status:</strong> 2 validated engineering projects completed · 1 AWS and Terraform platform in active development
+<strong>Portfolio Status:</strong>
+3 completed and documented projects · 1 AWS and Terraform platform in active development
 </div>
 
 <br>
