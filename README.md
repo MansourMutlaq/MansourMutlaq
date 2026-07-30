@@ -72,7 +72,7 @@ I build documented engineering projects using AWS, Terraform, Python, Linux, Cis
 ---
 
 <div align="center">
-<strong>Portfolio Status:</strong> 2 production-style engineering projects completed · AWS and Terraform platform starting August 2026
+<strong>Portfolio Status:</strong> 2 validated engineering projects completed · 1 AWS and Terraform platform in active development
 </div>
 
 <br>
@@ -89,7 +89,7 @@ A modular Python network automation toolkit built and validated against a live s
 - Running-configuration backups: **6/6 devices**
 - Automated pytest suite: **30/30 passed**
 
-**Technologies:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG
+**Technologies:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG<br>
 **Status:** Completed
 
 ---
@@ -107,7 +107,7 @@ A multi-source infrastructure security analytics pipeline that ingests AWS Cloud
 - Live OpenSearch validation: **15 normalized events and 10 correlated alerts indexed**
 - AWS, Linux, and Cisco detections documented with reproducible evidence
 
-**Technologies:** Python · AWS CloudTrail · Linux Authentication · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2
+**Technologies:** Python · AWS CloudTrail · Linux Authentication · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2<br>
 **Status:** Completed
 
 ---
@@ -123,44 +123,47 @@ A capstone engineering project integrating embedded software, IoT connectivity, 
 - Implemented multi-sensor obstacle detection and alerting logic
 - Documented system architecture, hardware integration, and operational behavior
 
-**Technologies:** ESP32 · C/C++ · IoT Sensors · GPS · Embedded Systems · Solar Energy
+**Technologies:** ESP32 · C/C++ · IoT Sensors · GPS · Embedded Systems · Solar Energy<br>
 **Status:** Completed · Capstone Project
 
 ---
 
-## Next Cloud Infrastructure Project
+## Cloud Infrastructure Project in Development
 
-### Secure Multi-AZ AWS Application Platform with Terraform
+### [Secure Multi-AZ AWS Application Platform with Terraform](https://github.com/MansourMutlaq/aws-secure-multi-az-platform)
 
-A production-oriented AWS platform designed to demonstrate secure cloud architecture, reusable Infrastructure as Code, high availability, observability, CI/CD federation, and cost-aware operations. The application layer will remain intentionally lightweight so the project can focus on infrastructure engineering and operational controls.
+<div align="center">
+<img src="https://img.shields.io/badge/Project_Status-In_Development-yellow?style=for-the-badge" alt="Project Status: In Development">
+</div>
 
-**Planned Architecture**
+A production-oriented AWS reference platform designed to demonstrate secure cloud infrastructure, reusable Infrastructure as Code, high availability, observability, federated CI/CD, and cost-aware operations.
+
+The application layer remains intentionally lightweight so the project can focus on infrastructure architecture, security controls, automated delivery, validation, and operational readiness.
+
+**Target Architecture**
 
 - Multi-AZ VPC with public, private application, and isolated database subnets
-- Application Load Balancer distributing traffic to ECS Fargate tasks in private subnets
-- Amazon RDS PostgreSQL deployed through a dedicated database subnet group
-- Amazon ECR for container images and Docker-based application packaging
-- AWS Secrets Manager and KMS for secret storage and encryption controls
-- AWS WAF managed rules protecting the public application entry point
-- CloudWatch Logs, metrics, alarms, dashboards, and SNS notifications
-- VPC Flow Logs for network-level visibility
-- S3 remote Terraform state with encryption, versioning, and native state locking
-- Environment separation with reusable Terraform modules for network, security, compute, database, and observability
+- Application Load Balancer distributing traffic to private ECS Fargate tasks
+- Amazon RDS PostgreSQL deployed without public access
+- Amazon ECR and Docker-based application packaging
+- Secrets Manager and AWS KMS for secrets and encryption controls
+- AWS WAF protecting the public application entry point
+- CloudWatch monitoring, SNS notifications, and VPC Flow Logs
+- Encrypted S3 Terraform state with versioning and native state locking
+- Reusable Terraform modules with separate development and production configurations
 
-**Enterprise Engineering Controls**
+**Engineering Controls**
 
 - GitHub Actions authentication to AWS through OIDC and temporary credentials
 - Separate Terraform plan and controlled apply workflows
-- `terraform fmt`, `terraform validate`, TFLint, Checkov, and dependency validation in CI
-- Least-privilege IAM roles for CI, ECS task execution, and application access
-- Security-group chaining between ALB, ECS, and RDS tiers
-- Private ECS tasks and a non-public database
-- Configurable development and production parameters for cost and availability trade-offs
-- AWS Budgets and documented teardown procedures to control laboratory costs
-- Deployment evidence, failure testing, architecture decisions, limitations, and production recommendations
+- Terraform formatting, validation, TFLint, and Checkov scanning in CI
+- Least-privilege IAM roles and security-group chaining between ALB, ECS, and RDS
+- AWS Budgets, deployment evidence, failure testing, and documented teardown
 
-**Planned Technologies:** AWS VPC · Terraform · ECS Fargate · Application Load Balancer · Amazon RDS · Amazon ECR · IAM · AWS KMS · Secrets Manager · AWS WAF · CloudWatch · SNS · VPC Flow Logs · Docker · GitHub Actions OIDC · TFLint · Checkov
-**Status:** Starting July 2026
+**Planned Technologies:** AWS VPC · Terraform · ECS Fargate · Application Load Balancer · Amazon RDS PostgreSQL · Amazon ECR · Docker · IAM · AWS KMS · Secrets Manager · AWS WAF · CloudWatch · SNS · VPC Flow Logs · S3 Remote State · GitHub Actions OIDC · TFLint · Checkov<br>
+**Status:** In Development<br>
+**Started:** July 2026<br>
+**Target Window:** Early August 2026
 
 ---
 
