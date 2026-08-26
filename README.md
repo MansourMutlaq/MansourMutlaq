@@ -1,204 +1,197 @@
 <div align="right">
-<a href="README.md"><img src="https://flagcdn.com/w20/us.png" width="16" alt="English"> <b>English</b></a>
-&nbsp; | &nbsp;
-<a href="README-ar.md"><img src="https://flagcdn.com/w20/sa.png" width="16" alt="Arabic"> <b>العربية</b></a>
+  <a href="./README.md"><strong>English</strong></a>
+  &nbsp;|&nbsp;
+  <a href="./README-ar.md"><strong>العربية</strong></a>
 </div>
 
-<div align="center">
-<img src="assets/banner.svg" alt="Mansour Alharbi Banner" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-<h3>$ whoami | grep "Cloud Infrastructure, Security & Network Automation" <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Developer GIF"></h3>
-<p>
-Hi, I am <b>Mansour</b>, an Information Technology graduate and certified <b>AWS Solutions Architect – Associate</b>, <b>HashiCorp Terraform Associate (004)</b>, and <b>Cisco CCNA</b> professional focused on cloud infrastructure, Infrastructure as Code, networking, automation, and security engineering.
-<br><br>
-I build documented engineering projects using AWS, Terraform, Python, Linux, Cisco IOS, Docker, GitHub Actions, and OpenSearch, with an emphasis on secure architecture, reusable automation, automated validation, and operational readiness.
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Mansour Alharbi — Cloud Infrastructure, Network Engineering, and Infrastructure Automation">
 </p>
-</div>
 
-<br>
+<h1 align="center">Mansour Alharbi</h1>
 
-<div align="center">
-<p><b>How to reach me</b></p>
-<a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/iirtac" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff" width="35" alt="X"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com" target="_blank"><img src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078d4" width="35" alt="Outlook"></a>
-</div>
+<p align="center">
+  <strong>Cloud Infrastructure&nbsp; | &nbsp;Network Engineering&nbsp; | &nbsp;Infrastructure Automation</strong>
+</p>
 
-<br>
+<p align="center">
+  Saudi Information Technology graduate building secure, automated, and well-documented infrastructure across cloud, Linux, and Cisco environments.
+</p>
 
----
+<p align="center">
+  <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_(004)-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate (004)">
+  <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate"></a>
+</p>
 
-### Core Technical Skills
-
-<div align="center">
-<p><strong>Cloud Infrastructure & Infrastructure as Code</strong></p>
-<img src="https://img.shields.io/badge/AWS_Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Architecture">&nbsp;
-<img src="https://img.shields.io/badge/Terraform_IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform IaC">&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</div>
-
-<div align="center">
-<p><strong>Networking & Automation</strong></p>
-<img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS">&nbsp;
-<img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation">&nbsp;
-<img src="https://img.shields.io/badge/Netmiko-4B275F?style=for-the-badge" alt="Netmiko">&nbsp;
-<img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2">&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-<div align="center">
-<p><strong>Infrastructure Security & Observability</strong></p>
-<img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CloudTrail">&nbsp;
-<img src="https://img.shields.io/badge/Security_Analytics-0B253A?style=for-the-badge" alt="Security Analytics">&nbsp;
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch">&nbsp;
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest">&nbsp;
-<img src="https://img.shields.io/badge/Secure_CI-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Secure CI">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"></a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email Mansour Alharbi"></a>
+  <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="Saudi Arabia">
+  <img src="https://img.shields.io/badge/Availability-Open_to_Opportunities-2EA44F?style=flat-square" alt="Open to opportunities">
+</p>
 
 ---
 
-### Technical Focus & Roadmap
+## Engineering Profile
 
-- Designing secure AWS architectures with reusable Terraform modules, environment separation, private networking, and least-privilege access controls.
-- Building automation and observability across cloud, Linux, and network infrastructure.
-- Developing a Secure Multi-AZ AWS Application Platform with Terraform to demonstrate high availability, secure delivery, monitoring, and cost-aware operations.
-- Planning an enterprise hybrid infrastructure home lab covering virtualization, Windows Server, Linux administration, Active Directory, DNS, DHCP, network segmentation, monitoring, backup, and hybrid AWS connectivity.
+I hold the **AWS Certified Solutions Architect – Associate**, **HashiCorp Certified: Terraform Associate (004)**, and **Cisco Certified Network Associate (CCNA)** certifications. I use documented projects to turn infrastructure concepts into reproducible engineering work with clear architecture, secure configuration, automated validation, and operational evidence.
+
+My current focus is entry-level **Cloud Infrastructure**, **Network Engineering**, **Infrastructure Automation**, and **IT Operations** roles in Saudi Arabia.
+
 ---
 
-<div align="center">
-<strong>Portfolio Status:</strong>
-3 completed and documented projects · 1 AWS and Terraform platform in active development
-</div>
+## Technology Stack
 
-<br>
+<p align="center">
+  <strong>Cloud & Infrastructure as Code</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-## Featured Technical Projects
+<p align="center">
+  <strong>Networking & Automation</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Netmiko-4B275F?style=flat-square" alt="Netmiko">
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML">
+</p>
+
+<p align="center">
+  <strong>Delivery, Testing & Observability</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CloudTrail">
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch">
+  <img src="https://img.shields.io/badge/Security_Scanning-Ruff_%7C_Bandit-2EA44F?style=flat-square" alt="Ruff and Bandit security scanning">
+</p>
+
+---
+
+## Featured Engineering Projects
 
 ### [Cisco IOS Network Automation Toolkit](https://github.com/MansourMutlaq/Cisco-Network-Automation)
 
-A modular Python network automation toolkit built and validated against a live six-device Cisco IOS environment in EVE-NG. The project provides YAML-based device inventory, secure runtime credential loading, Netmiko SSH validation, timestamped running-configuration backups, Jinja2 configuration rendering, tested deployment and rollback components, structured logging, and operational reporting.
+<p>
+  <img src="https://img.shields.io/badge/Lab-6%2F6_Devices_Validated-2EA44F?style=flat-square" alt="Six of six devices validated">
+  <img src="https://img.shields.io/badge/Tests-30%2F30_Passing-2EA44F?style=flat-square&logo=pytest&logoColor=white" alt="Thirty of thirty tests passing">
+  <img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=flat-square" alt="Completed">
+</p>
 
-**Validated Results**
+A modular Python network automation toolkit built and validated in a six-device Cisco IOS lab running on EVE-NG. It provides YAML-based inventory, secure runtime credential loading, Netmiko SSH validation, timestamped configuration backups, Jinja2 rendering, controlled deployment and rollback workflows, structured logging, and operational reporting.
 
-- Netmiko SSH connectivity: **6/6 devices**
-- Running-configuration backups: **6/6 devices**
-- Automated pytest suite: **30/30 passed**
+**Engineering evidence**
 
-**Technologies:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG<br>
-**Status:** Completed
+- Validated SSH connectivity across **6/6 Cisco IOS devices**
+- Backed up running configurations successfully across **6/6 devices**
+- Completed the automated test suite with **30/30 pytest tests passing**
+
+**Stack:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG
+
+[View source code and validation evidence →](https://github.com/MansourMutlaq/Cisco-Network-Automation)
 
 ---
 
 ### [Infrastructure Security Analytics](https://github.com/MansourMutlaq/infrastructure-security-analytics)
 
-A multi-source infrastructure security analytics pipeline that ingests AWS CloudTrail, Linux authentication, and Cisco IOS telemetry. It normalizes heterogeneous events into an ECS-inspired security model, executes deterministic detection rules, assigns risk scores, correlates related activity, and generates investigation-ready HTML, JSON, CSV, and optional OpenSearch outputs.
+<p>
+  <img src="https://img.shields.io/badge/Tests-47%2F47_Passing-2EA44F?style=flat-square&logo=pytest&logoColor=white" alt="Forty-seven of forty-seven tests passing">
+  <img src="https://img.shields.io/badge/Coverage-92.98%25-2EA44F?style=flat-square" alt="92.98 percent statement coverage">
+  <img src="https://img.shields.io/badge/OpenSearch-15_Events_%7C_10_Alerts-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="Fifteen events and ten alerts indexed in OpenSearch">
+  <img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=flat-square" alt="Completed">
+</p>
 
-**Validated Results**
+A multi-source analytics pipeline for AWS CloudTrail events, Linux authentication logs, and Cisco IOS telemetry. It normalizes heterogeneous events into an Elastic Common Schema (ECS)-inspired model, applies deterministic detection rules and risk scoring, correlates related activity, and generates investigation-ready HTML, JSON, CSV, and OpenSearch outputs.
 
-- Automated test suite: **47/47 passed**
-- Statement coverage: **92.98%**
-- Multi-version GitHub Actions CI: **Python 3.12, 3.13, and 3.14**
-- Ruff static analysis and Bandit security scanning: **Passed**
-- Live OpenSearch validation: **15 normalized events and 10 correlated alerts indexed**
-- AWS, Linux, and Cisco detections documented with reproducible evidence
+**Engineering evidence**
 
-**Technologies:** Python · AWS CloudTrail · Linux Authentication · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2<br>
-**Status:** Completed
+- Completed the automated suite with **47/47 tests passing** and **92.98% statement coverage**
+- Validated CI across **Python 3.12, 3.13, and 3.14** using GitHub Actions
+- Passed Ruff static analysis and Bandit security scanning
+- Indexed **15 normalized events and 10 correlated alerts** in a live OpenSearch validation environment
+
+**Stack:** Python · AWS CloudTrail · Linux authentication logs · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2
+
+[View source code and validation evidence →](https://github.com/MansourMutlaq/infrastructure-security-analytics)
 
 ---
 
 ### [IoT-Enabled Solar-Powered Smart Wheelchair](https://github.com/MansourMutlaq/IoT-Smart-Wheelchair)
 
-A capstone engineering project integrating embedded software, IoT connectivity, obstacle detection, health monitoring, GPS-based location support, and solar-powered operation to improve user safety and independence. The system uses ESP32-based control, multiple sensors, real-time alerts, and energy-aware design.
+<p>
+  <img src="https://img.shields.io/badge/Role-Team_Lead-1BA0D7?style=flat-square" alt="Team Lead">
+  <img src="https://img.shields.io/badge/Grade-A%2B-2EA44F?style=flat-square" alt="Grade A plus">
+  <img src="https://img.shields.io/badge/Status-Capstone_Completed-2EA44F?style=flat-square" alt="Capstone project completed">
+</p>
 
-**Project Contributions**
+An Information Technology capstone project combining ESP32-based control, IoT connectivity, obstacle detection, health monitoring, GPS-based location support, and solar-assisted power to improve user safety and mobility.
 
-- Led the project architecture and team delivery
-- Integrated embedded control, IoT communication, and sensor-based safety functions
+**Key contributions**
+
+- Led project architecture, technical coordination, and team delivery
+- Integrated embedded control, IoT communication, and sensor-driven safety functions
 - Implemented multi-sensor obstacle detection and alerting logic
 - Documented system architecture, hardware integration, and operational behavior
 
-**Technologies:** ESP32 · C/C++ · IoT Sensors · GPS · Embedded Systems · Solar Energy<br>
-**Status:** Completed · Capstone Project
+**Stack:** ESP32 · C/C++ · IoT sensors · GPS · Embedded systems · Solar energy
+
+[View project documentation and source code →](https://github.com/MansourMutlaq/IoT-Smart-Wheelchair)
 
 ---
 
-## Cloud Infrastructure Project in Development
-
-### [Secure Multi-AZ AWS Application Platform with Terraform](https://github.com/MansourMutlaq/aws-secure-multi-az-platform)
-
-<div align="center">
-<img src="https://img.shields.io/badge/Project_Status-In_Development-yellow?style=for-the-badge" alt="Project Status: In Development">
-</div>
-
-A production-oriented AWS reference platform designed to demonstrate secure cloud infrastructure, reusable Infrastructure as Code, high availability, observability, federated CI/CD, and cost-aware operations.
-
-The application layer remains intentionally lightweight so the project can focus on infrastructure architecture, security controls, automated delivery, validation, and operational readiness.
-
-**Target Architecture**
-
-- Multi-AZ VPC with public, private application, and isolated database subnets
-- Application Load Balancer distributing traffic to private ECS Fargate tasks
-- Amazon RDS PostgreSQL deployed without public access
-- Amazon ECR and Docker-based application packaging
-- Secrets Manager and AWS KMS for secrets and encryption controls
-- AWS WAF protecting the public application entry point
-- CloudWatch monitoring, SNS notifications, and VPC Flow Logs
-- Encrypted S3 Terraform state with versioning and native state locking
-- Reusable Terraform modules with separate development and production configurations
-
-**Technical & Operational Controls**
-
-- GitHub Actions authentication to AWS through OIDC and temporary credentials
-- Separate Terraform plan and controlled apply workflows
-- Terraform formatting, validation, TFLint, and Checkov scanning in CI
-- Least-privilege IAM roles and security-group chaining between ALB, ECS, and RDS
-- AWS Budgets, deployment evidence, failure testing, and documented teardown
-
-**Planned Technologies:** AWS VPC · Terraform · ECS Fargate · Application Load Balancer · Amazon RDS PostgreSQL · Amazon ECR · Docker · IAM · AWS KMS · Secrets Manager · AWS WAF · CloudWatch · SNS · VPC Flow Logs · S3 Remote State · GitHub Actions OIDC · TFLint · Checkov<br>
-**Status:** In Development<br>
-**Started:** July 2026<br>
-**Target Window:** Early August 2026
-
----
-
-### Verified Professional Certifications
+## Professional Certifications
 
 <table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<h4>AWS Certified</h4>
-<hr>
-<a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url" target="_blank">
-<img src="assets/aws-saa-badge.png" width="120" alt="AWS Certified Solutions Architect Associate">
-</a>
-<br><br>
-<strong>AWS Certified Solutions Architect – Associate</strong>
-<br><br>
-<a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url" target="_blank">Verify Credential</a>
-</td>
-<td width="33%" align="center" valign="top">
-<h4>HashiCorp Certified</h4>
-<hr>
-<img src="assets/terraform-associate-004.svg" width="110" alt="HashiCorp Certified Terraform Associate 004">
-<br><br>
-<strong>HashiCorp Certified:<br>Terraform Associate (004)</strong>
-</td>
-<td width="33%" align="center" valign="top">
-<h4>Cisco Certified</h4>
-<hr>
-<a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">
-<img src="assets/ccna_med.jpg" width="120" alt="Cisco Certified Network Associate">
-</a>
-<br><br>
-<strong>Cisco Certified Network Associate</strong>
-<br><br>
-<a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">Verify Credential</a>
-</td>
-</tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">
+        <img src="assets/aws-saa-badge.png" width="115" alt="AWS Certified Solutions Architect – Associate badge">
+      </a>
+      <br><br>
+      <strong>AWS Certified Solutions Architect – Associate</strong>
+      <br><br>
+      <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">Verify credential</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <!-- Add the Terraform credential URL to this image and a verification link when available. -->
+      <img src="assets/terraform-associate-004.svg" width="105" alt="HashiCorp Certified: Terraform Associate (004) badge">
+      <br><br>
+      <strong>HashiCorp Certified:<br>Terraform Associate (004)</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">
+        <img src="assets/ccna_med.jpg" width="115" alt="Cisco Certified Network Associate badge">
+      </a>
+      <br><br>
+      <strong>Cisco Certified Network Associate (CCNA)</strong>
+      <br><br>
+      <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">Verify credential</a>
+    </td>
+  </tr>
 </table>
+
+---
+
+## Contact
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="Saudi Arabia">
+  <img src="https://img.shields.io/badge/Mobility-Open_to_Riyadh_%26_Nationwide-2EA44F?style=flat-square" alt="Open to Riyadh and nationwide opportunities">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Mansour Alharbi on LinkedIn"></a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Outlook-Send_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send an email to Mansour Alharbi"></a>
+  <br><br>
+  <sub>Direct email: <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com">mansour-alharbi@outlook.com</a></sub>
+</p>
+
+<p align="center">
+  <sub>All reported results are supported by documentation and validation evidence in the corresponding repositories.</sub>
+</p>
