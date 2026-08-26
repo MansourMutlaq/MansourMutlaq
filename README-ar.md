@@ -1,305 +1,225 @@
-<div align="right" dir="ltr">
-<a href="README.md"><img src="https://flagcdn.com/w20/us.png" width="16" alt="English"> <b>English</b></a>
-&nbsp; | &nbsp;
-<a href="README-ar.md"><img src="https://flagcdn.com/w20/sa.png" width="16" alt="العربية"> <b>العربية</b></a>
+<div align="left">
+  <a href="./README.md"><strong>English</strong></a>
+  &nbsp;|&nbsp;
+  <a href="./README-ar.md"><strong>العربية</strong></a>
 </div>
 
-<div align="center">
-<img src="assets/banner.svg" alt="Mansour Alharbi Banner" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-<h3 dir="ltr">$ whoami | grep "Cloud Infrastructure, Security & Network Automation" <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30" alt="Developer GIF"></h3>
-<p dir="rtl">
-أهلًا، أنا <b>منصور</b>، خريج بكالوريوس تقنية المعلومات، وحاصل على
-<bdi dir="ltr"><b>AWS Certified Solutions Architect – Associate</b></bdi>،
-و<bdi dir="ltr"><b>HashiCorp Certified: Terraform Associate (004)</b></bdi>،
-و<bdi dir="ltr"><b>Cisco CCNA</b></bdi>.
-أركز مهنيًا على البنية التحتية السحابية، وإدارة البنية التحتية ككود، وأتمتة الشبكات، وهندسة أمن البنية التحتية.
-<br><br>
-أبني مشاريع هندسية موثقة باستخدام
-<bdi dir="ltr">AWS</bdi>،
-و<bdi dir="ltr">Terraform</bdi>،
-و<bdi dir="ltr">Python</bdi>،
-و<bdi dir="ltr">Linux</bdi>،
-و<bdi dir="ltr">Cisco IOS</bdi>،
-و<bdi dir="ltr">Docker</bdi>،
-و<bdi dir="ltr">GitHub Actions</bdi>،
-و<bdi dir="ltr">OpenSearch</bdi>،
-مع اهتمام واضح بالمعمارية الآمنة، والأتمتة القابلة لإعادة الاستخدام، والاختبارات، والجاهزية التشغيلية.
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="منصور الحربي — البنية التحتية السحابية وهندسة الشبكات وأتمتة البنية التحتية">
 </p>
-</div>
 
-<br>
+<h1 align="center">منصور الحربي</h1>
 
-<div align="center">
-<p dir="rtl"><b>وسائل التواصل</b></p>
-<a href="https://www.linkedin.com/in/mansour-mu-alharbi" target="_blank"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230077b5" width="35" alt="LinkedIn"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/iirtac" target="_blank"><img src="https://api.iconify.design/simple-icons:x.svg?color=%23ffffff" width="35" alt="X"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com" target="_blank"><img src="https://api.iconify.design/simple-icons:microsoftoutlook.svg?color=%230078d4" width="35" alt="Outlook"></a>
-</div>
+<p align="center" dir="rtl">
+  <strong>البنية التحتية السحابية&nbsp; | &nbsp;هندسة الشبكات&nbsp; | &nbsp;أتمتة البنية التحتية</strong>
+</p>
 
-<br>
+<p align="center" dir="rtl">
+  أنا منصور، خريج تقنية معلومات سعودي، ومهتم بالبنية التحتية السحابية والشبكات والأتمتة. أطبق اللي تعلمته بمشاريع عملية على AWS وLinux وCisco، وأحرص إن شغلي يكون آمن، مرتب، موثق، وقابل للاختبار.
+</p>
 
----
+<p align="center">
+  <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_(004)-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate (004)">
+  <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate"></a>
+</p>
 
-### المهارات التقنية الأساسية
-
-<div align="center">
-<p dir="rtl"><strong>البنية التحتية السحابية وإدارة البنية التحتية ككود</strong></p>
-<img src="https://img.shields.io/badge/AWS_Architecture-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Architecture">&nbsp;
-<img src="https://img.shields.io/badge/Terraform_IaC-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform IaC">&nbsp;
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">&nbsp;
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</div>
-
-<div align="center">
-<p dir="rtl"><strong>الشبكات والأتمتة</strong></p>
-<img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS">&nbsp;
-<img src="https://img.shields.io/badge/Python_Automation-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Automation">&nbsp;
-<img src="https://img.shields.io/badge/Netmiko-4B275F?style=for-the-badge" alt="Netmiko">&nbsp;
-<img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja2">&nbsp;
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-</div>
-
-<div align="center">
-<p dir="rtl"><strong>أمن البنية التحتية وقابلية المراقبة</strong></p>
-<img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS CloudTrail">&nbsp;
-<img src="https://img.shields.io/badge/Security_Analytics-0B1F33?style=for-the-badge" alt="Security Analytics">&nbsp;
-<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch">&nbsp;
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest">&nbsp;
-<img src="https://img.shields.io/badge/Secure_CI-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white" alt="Secure CI">
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="حساب منصور الحربي على LinkedIn"></a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="التواصل مع منصور الحربي عبر البريد الإلكتروني"></a>
+  <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="المملكة العربية السعودية">
+  <img src="https://img.shields.io/badge/Availability-Open_to_Opportunities-2EA44F?style=flat-square" alt="متاح للفرص الوظيفية">
+</p>
 
 ---
-
-### التركيز والخطة التقنية
 
 <div dir="rtl">
 
-- تصميم معماريات آمنة على <bdi dir="ltr">AWS</bdi> باستخدام وحدات <bdi dir="ltr">Terraform</bdi> قابلة لإعادة الاستخدام، وفصل البيئات، والشبكات الخاصة، وتطبيق مبدأ أقل الصلاحيات.
-- بناء الأتمتة وقابلية المراقبة عبر البنية التحتية السحابية، وأنظمة <bdi dir="ltr">Linux</bdi>، وبيئات الشبكات.
-- تطوير منصة تطبيقات آمنة ومتعددة مناطق التوافر على <bdi dir="ltr">AWS</bdi> باستخدام <bdi dir="ltr">Terraform</bdi> لإثبات التوافر العالي، والتسليم الآمن، والمراقبة، وإدارة التكلفة.
-- التخطيط لبناء مختبر منزلي هجين بمستوى مؤسسي يشمل المحاكاة الافتراضية، و<bdi dir="ltr">Windows Server</bdi>، وإدارة <bdi dir="ltr">Linux</bdi>، و<bdi dir="ltr">Active Directory</bdi>، و<bdi dir="ltr">DNS</bdi>، و<bdi dir="ltr">DHCP</bdi>، وتقسيم الشبكات، والمراقبة، والنسخ الاحتياطي، والربط الهجين مع <bdi dir="ltr">AWS</bdi>.
+## نبذة عني
 
-</div>
+معي شهادات **AWS Certified Solutions Architect – Associate** و**HashiCorp Certified: Terraform Associate (004)** و**Cisco Certified Network Associate (CCNA)**. ما أكتفي بالمعلومات النظرية؛ أطبقها بمشاريع موثقة فيها تصميم واضح، إعدادات آمنة، اختبارات آلية، ونتائج تقدر ترجع لها وتتأكد منها.
 
-<br>
-
-<div align="center" dir="rtl">
-<strong>حالة المشاريع:</strong>
-3 مشاريع مكتملة وموثقة · مشروع <bdi dir="ltr">AWS</bdi> و<bdi dir="ltr">Terraform</bdi> قيد التطوير حاليًا
-</div>
-
-<br>
-
-## المشاريع التقنية المميزة
-
-<div dir="rtl" align="right">
-
-<h3>
-<a href="https://github.com/MansourMutlaq/Cisco-Network-Automation">
-<bdi dir="ltr">Cisco IOS Network Automation Toolkit</bdi>
-</a>
-</h3>
-
-<p>
-حزمة أتمتة شبكات مبنية بلغة <bdi dir="ltr">Python</bdi>، ومختبرة على بيئة فعلية تضم ستة أجهزة
-<bdi dir="ltr">Cisco IOS</bdi> داخل <bdi dir="ltr">EVE-NG</bdi>.
-يعتمد المشروع على مخزون أجهزة بصيغة <bdi dir="ltr">YAML</bdi>، وتحميل آمن لبيانات الدخول وقت التشغيل،
-والتحقق من اتصال <bdi dir="ltr">SSH</bdi> باستخدام <bdi dir="ltr">Netmiko</bdi>،
-وأخذ نسخ احتياطية مؤرخة من إعدادات التشغيل، وتوليد الإعدادات من قوالب <bdi dir="ltr">Jinja2</bdi>.
-كما يتضمن مكونات مختبرة للنشر المنضبط، والتحقق بعد التغيير، والرجوع للإعداد السابق عند فشل التحقق،
-مع تسجيل منظم للأحداث وتقارير تشغيلية.
-</p>
-
-<p><strong>النتائج الموثقة</strong></p>
-
-- نجاح اتصال <bdi dir="ltr">Netmiko SSH</bdi> على <bdi dir="ltr"><b>6/6</b></bdi> أجهزة
-- نجاح أخذ النسخ الاحتياطية لإعدادات التشغيل على <bdi dir="ltr"><b>6/6</b></bdi> أجهزة
-- اجتياز مجموعة الاختبارات الآلية: <bdi dir="ltr"><b>30/30</b></bdi>
-
-<p>
-<strong>التقنيات المستخدمة:</strong>
-<bdi dir="ltr">Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG</bdi>
-<br>
-<strong>الحالة:</strong> مكتمل
-</p>
-
-<hr>
-
-<h3>
-<a href="https://github.com/MansourMutlaq/infrastructure-security-analytics">
-<bdi dir="ltr">Infrastructure Security Analytics</bdi>
-</a>
-</h3>
-
-<p>
-منظومة تحليل أمني متعددة المصادر تستقبل سجلات
-<bdi dir="ltr">AWS CloudTrail</bdi>،
-ومصادقة <bdi dir="ltr">Linux</bdi>،
-وتتبّع أحداث <bdi dir="ltr">Cisco IOS</bdi>.
-توحّد الأحداث داخل نموذج أمني مستوحى من
-<bdi dir="ltr">ECS</bdi>،
-ثم تطبق قواعد كشف محددة، وتمنح درجات خطورة، وتربط الأنشطة المتصلة،
-وتنتج تقارير جاهزة للتحقيق بصيغ
-<bdi dir="ltr">HTML</bdi>،
-و<bdi dir="ltr">JSON</bdi>،
-و<bdi dir="ltr">CSV</bdi>،
-مع دعم اختياري للفهرسة في <bdi dir="ltr">OpenSearch</bdi>.
-</p>
-
-<p><strong>النتائج الموثقة</strong></p>
-
-- اجتياز مجموعة الاختبارات الآلية: <bdi dir="ltr"><b>47/47</b></bdi>
-- تغطية أسطر الكود: <bdi dir="ltr"><b>92.98%</b></bdi>
-- تكامل مستمر متعدد الإصدارات على <bdi dir="ltr">Python 3.12 و3.13 و3.14</bdi>
-- اجتياز فحص <bdi dir="ltr">Ruff</bdi> وفحص <bdi dir="ltr">Bandit</bdi> الأمني
-- فهرسة <bdi dir="ltr"><b>15</b></bdi> حدثًا موحدًا و<bdi dir="ltr"><b>10</b></bdi> تنبيهات مترابطة داخل <bdi dir="ltr">OpenSearch</bdi>
-- توثيق اكتشافات <bdi dir="ltr">AWS</bdi> و<bdi dir="ltr">Linux</bdi> و<bdi dir="ltr">Cisco</bdi> بأدلة قابلة لإعادة التنفيذ
-
-<p>
-<strong>التقنيات المستخدمة:</strong>
-<bdi dir="ltr">Python · AWS CloudTrail · Linux Authentication · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2</bdi>
-<br>
-<strong>الحالة:</strong> مكتمل
-</p>
-
-<hr>
-
-<h3>
-<a href="https://github.com/MansourMutlaq/IoT-Smart-Wheelchair">
-<bdi dir="ltr">IoT-Enabled Solar-Powered Smart Wheelchair</bdi>
-</a>
-</h3>
-
-<p>
-مشروع تخرج هندسي يجمع بين البرمجيات المضمنة، والاتصال بإنترنت الأشياء، واكتشاف العوائق،
-ومراقبة المؤشرات الصحية، ودعم تحديد الموقع عبر <bdi dir="ltr">GPS</bdi>،
-والتشغيل بالطاقة الشمسية؛ بهدف رفع سلامة المستخدم واستقلاليته.
-يعتمد النظام على وحدة <bdi dir="ltr">ESP32</bdi>، وعدة حساسات، وتنبيهات لحظية،
-وتصميم يراعي كفاءة استهلاك الطاقة.
-</p>
-
-<p><strong>مساهماتي في المشروع</strong></p>
-
-- قيادة معمارية المشروع وتسليم العمل ضمن الفريق
-- دمج التحكم المضمن، واتصال إنترنت الأشياء، ووظائف السلامة المعتمدة على الحساسات
-- تنفيذ منطق اكتشاف العوائق والتنبيه باستخدام عدة حساسات
-- توثيق معمارية النظام، وتكامل العتاد، والسلوك التشغيلي
-
-<p>
-<strong>التقنيات المستخدمة:</strong>
-<bdi dir="ltr">ESP32 · C/C++ · IoT Sensors · GPS · Embedded Systems · Solar Energy</bdi>
-<br>
-<strong>الحالة:</strong> مكتمل — مشروع التخرج
-</p>
+حاليًا أبحث عن فرصة أبدأ فيها مساري المهني بمجال **Cloud Infrastructure** أو**Network Engineering** أو**Infrastructure Automation** أو**IT Operations** داخل السعودية.
 
 </div>
 
 ---
 
-## مشروع البنية التحتية السحابية قيد التطوير
+<h2 dir="rtl">الأدوات والتقنيات اللي أشتغل عليها</h2>
 
-<div dir="rtl" align="right">
+<p align="center" dir="rtl">
+  <strong>Cloud Infrastructure & Infrastructure as Code</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+</p>
 
-<h3>
-<a href="https://github.com/MansourMutlaq/aws-secure-multi-az-platform">
-<bdi dir="ltr">Secure Multi-AZ AWS Application Platform with Terraform</bdi>
-</a>
-</h3>
+<p align="center" dir="rtl">
+  <strong>Networking & Automation</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/Cisco_IOS-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Netmiko-4B275F?style=flat-square" alt="Netmiko">
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2">
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML">
+</p>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Project_Status-In_Development-yellow?style=for-the-badge" alt="Project Status: In Development">
+<p align="center" dir="rtl">
+  <strong>CI/CD, Testing & Monitoring</strong>
+  <br><br>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest">
+  <img src="https://img.shields.io/badge/AWS_CloudTrail-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS CloudTrail">
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="OpenSearch">
+  <img src="https://img.shields.io/badge/Security_Scanning-Ruff_%7C_Bandit-2EA44F?style=flat-square" alt="Ruff وBandit">
+</p>
+
+---
+
+<div dir="rtl">
+
+## أبرز مشاريعي التقنية
+
+### [مشروع أتمتة شبكات Cisco IOS](https://github.com/MansourMutlaq/Cisco-Network-Automation)
+
 </div>
 
-<br>
-
-<p>
-منصة مرجعية على <bdi dir="ltr">AWS</bdi> بطابع قريب من بيئات الإنتاج،
-ومصممة لإثبات بناء بنية تحتية سحابية آمنة، وإدارة بنية تحتية ككود قابلة لإعادة الاستخدام،
-وتحقيق التوافر العالي، وقابلية المراقبة، وتكامل النشر الآلي باستخدام هوية مؤقتة،
-مع مراعاة التكلفة والتشغيل.
+<p align="right">
+  <img src="https://img.shields.io/badge/Lab-6%2F6_Devices_Validated-2EA44F?style=flat-square" alt="تم التحقق من ستة أجهزة من أصل ستة">
+  <img src="https://img.shields.io/badge/Tests-30%2F30_Passing-2EA44F?style=flat-square&logo=pytest&logoColor=white" alt="نجاح ثلاثين اختبارًا من أصل ثلاثين">
+  <img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=flat-square" alt="مكتمل">
 </p>
 
-<p>
-طبقة التطبيق مقصودة تكون خفيفة؛ حتى يتركز المشروع على المعمارية، وضوابط الأمن،
-والتسليم الآلي، والتحقق، والجاهزية التشغيلية.
-</p>
+<div dir="rtl">
 
-<p><strong>المعمارية المستهدفة</strong></p>
+هذا المشروع سويته لأتمتة مهام شبكات Cisco IOS باستخدام Python، وطبقته داخل لاب EVE-NG فيه ستة أجهزة. المشروع يقرأ بيانات الأجهزة من ملفات YAML، ويحمل بيانات الدخول بشكل آمن وقت التشغيل، ويفحص اتصال SSH باستخدام Netmiko، ويسوي نسخ احتياطية مؤرخة للإعدادات، ويجهز Configurations عن طريق Jinja2، وفيه خطوات منظمة للتطبيق والتراجع مع Logging وتقارير واضحة.
 
-- شبكة <bdi dir="ltr">VPC</bdi> متعددة مناطق التوافر، تشمل شبكات عامة، وشبكات تطبيقات خاصة، وشبكات قواعد بيانات معزولة
-- موزع أحمال <bdi dir="ltr">Application Load Balancer</bdi> يوجه الحركة إلى مهام <bdi dir="ltr">ECS Fargate</bdi> داخل شبكات خاصة
-- قاعدة بيانات <bdi dir="ltr">Amazon RDS PostgreSQL</bdi> بدون وصول عام
-- مستودع <bdi dir="ltr">Amazon ECR</bdi> وصور تطبيق مبنية باستخدام <bdi dir="ltr">Docker</bdi>
-- استخدام <bdi dir="ltr">Secrets Manager</bdi> و<bdi dir="ltr">AWS KMS</bdi> لحفظ الأسرار والتشفير
-- حماية نقطة الدخول العامة باستخدام قواعد <bdi dir="ltr">AWS WAF</bdi> المدارة
-- مراقبة وتنبيهات باستخدام <bdi dir="ltr">CloudWatch</bdi> و<bdi dir="ltr">SNS</bdi>، مع <bdi dir="ltr">VPC Flow Logs</bdi>
-- حالة <bdi dir="ltr">Terraform</bdi> بعيدة ومشفرة داخل <bdi dir="ltr">S3</bdi> مع الإصدارات والقفل الأصلي
-- وحدات <bdi dir="ltr">Terraform</bdi> قابلة لإعادة الاستخدام، مع فصل إعدادات التطوير والإنتاج
+**النتائج اللي تحققت منها**
 
-<p><strong>الضوابط التقنية والتشغيلية</strong></p>
+- اتصال SSH اشتغل بنجاح على **6/6 أجهزة Cisco IOS**
+- أخذت نسخة احتياطية من Running Configuration لكل **6/6 أجهزة**
+- نجحت جميع الاختبارات الآلية بنتيجة **30/30 اختبار pytest**
 
-- مصادقة <bdi dir="ltr">GitHub Actions</bdi> مع <bdi dir="ltr">AWS</bdi> باستخدام <bdi dir="ltr">OIDC</bdi> وبيانات اعتماد مؤقتة
-- فصل مسار <bdi dir="ltr">Terraform plan</bdi> عن مسار التطبيق المنضبط
-- تشغيل <bdi dir="ltr">terraform fmt</bdi> و<bdi dir="ltr">terraform validate</bdi> و<bdi dir="ltr">TFLint</bdi> و<bdi dir="ltr">Checkov</bdi> داخل التكامل المستمر
-- تطبيق أقل الصلاحيات في أدوار <bdi dir="ltr">IAM</bdi>، وربط مجموعات الحماية بين <bdi dir="ltr">ALB</bdi> و<bdi dir="ltr">ECS</bdi> و<bdi dir="ltr">RDS</bdi>
-- استخدام <bdi dir="ltr">AWS Budgets</bdi>، وجمع أدلة النشر، واختبار الفشل، وتوثيق الإزالة النهائية للموارد
+**التقنيات:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG
 
-<p>
-<strong>التقنيات المخطط لها:</strong>
-<bdi dir="ltr">AWS VPC · Terraform · ECS Fargate · Application Load Balancer · Amazon RDS PostgreSQL · Amazon ECR · Docker · IAM · AWS KMS · Secrets Manager · AWS WAF · CloudWatch · SNS · VPC Flow Logs · S3 Remote State · GitHub Actions OIDC · TFLint · Checkov</bdi>
-<br>
-<strong>الحالة:</strong> قيد التطوير
-<br>
-<strong>تاريخ البدء:</strong> يوليو 2026
-<br>
-<strong>الفترة المستهدفة:</strong> أوائل أغسطس 2026
-</p>
+[شوف المشروع والكود ونتائج الاختبارات ←](https://github.com/MansourMutlaq/Cisco-Network-Automation)
 
 </div>
 
 ---
 
-### الشهادات الاحترافية الموثقة
+<div dir="rtl">
+
+### [مشروع تحليل ومراقبة أمن البنية التحتية](https://github.com/MansourMutlaq/infrastructure-security-analytics)
+
+</div>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Tests-47%2F47_Passing-2EA44F?style=flat-square&logo=pytest&logoColor=white" alt="نجاح سبعة وأربعين اختبارًا من أصل سبعة وأربعين">
+  <img src="https://img.shields.io/badge/Coverage-92.98%25-2EA44F?style=flat-square" alt="تغطية جمل برمجية بنسبة 92.98 بالمئة">
+  <img src="https://img.shields.io/badge/OpenSearch-15_Events_%7C_10_Alerts-005EB8?style=flat-square&logo=opensearch&logoColor=white" alt="خمسة عشر حدثًا وعشرة تنبيهات في OpenSearch">
+  <img src="https://img.shields.io/badge/Status-Completed-2EA44F?style=flat-square" alt="مكتمل">
+</p>
+
+<div dir="rtl">
+
+هذا المشروع يجمع أحداث AWS CloudTrail وسجلات تسجيل الدخول في Linux وLogs من أجهزة Cisco IOS بمكان واحد. يوحد البيانات بصيغة قريبة من Elastic Common Schema (ECS)، وبعدها يطبق Detection Rules، ويحسب مستوى الخطورة، ويربط الأحداث اللي لها علاقة ببعض، ويطلع تقارير HTML وJSON وCSV، ويقدر يرسل النتائج إلى OpenSearch.
+
+**النتائج اللي تحققت منها**
+
+- نجحت جميع الاختبارات بنتيجة **47/47** ووصلت تغطية الاختبارات إلى **92.98%**
+- شغلت CI على إصدارات **Python 3.12 و3.13 و3.14** عن طريق GitHub Actions
+- نجح فحص جودة الكود باستخدام Ruff والفحص الأمني باستخدام Bandit
+- أرسلت **15 حدثًا موحدًا و10 تنبيهات مترابطة** إلى بيئة OpenSearch وشفت النتائج فعليًا
+
+**التقنيات:** Python · AWS CloudTrail · Linux authentication logs · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2
+
+[شوف المشروع والكود ونتائج الاختبارات ←](https://github.com/MansourMutlaq/infrastructure-security-analytics)
+
+</div>
+
+---
+
+<div dir="rtl">
+
+### [الكرسي المتحرك الذكي بتقنية IoT والطاقة الشمسية](https://github.com/MansourMutlaq/IoT-Smart-Wheelchair)
+
+</div>
+
+<p align="right">
+  <img src="https://img.shields.io/badge/Role-Team_Lead-1BA0D7?style=flat-square" alt="قائد الفريق">
+  <img src="https://img.shields.io/badge/Grade-A%2B-2EA44F?style=flat-square" alt="التقدير A+">
+  <img src="https://img.shields.io/badge/Status-Capstone_Completed-2EA44F?style=flat-square" alt="مشروع التخرج مكتمل">
+</p>
+
+<div dir="rtl">
+
+هذا مشروع تخرجي، وفكرته كرسي متحرك ذكي يعتمد على ESP32 وIoT. يجمع بين اكتشاف العوائق، ومتابعة بعض المؤشرات الصحية، وتحديد الموقع عن طريق GPS، والاستفادة من الطاقة الشمسية؛ والهدف منه رفع مستوى أمان المستخدم ومساعدته على التنقل.
+
+**وش كان دوري بالمشروع**
+
+- قدت تصميم المشروع والتنسيق التقني وتوزيع العمل بين أعضاء الفريق
+- شاركت في ربط ESP32 واتصال IoT والمستشعرات المسؤولة عن وظائف الأمان
+- نفذت منطق يعتمد على أكثر من مستشعر لاكتشاف العوائق وإطلاق التنبيهات
+- وثقت تصميم النظام، وربط مكونات الهاردوير، وطريقة تشغيله
+
+**التقنيات:** ESP32 · C/C++ · IoT sensors · GPS · Embedded systems · Solar energy
+
+[شوف المشروع والكود والتوثيق ←](https://github.com/MansourMutlaq/IoT-Smart-Wheelchair)
+
+</div>
+
+---
+
+<h2 dir="rtl">شهاداتي المهنية</h2>
 
 <table width="100%">
-<tr>
-
-<td width="33%" align="center" valign="top">
-<h4><bdi dir="ltr">AWS Certified</bdi></h4>
-<hr>
-<a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url" target="_blank">
-<img src="assets/aws-saa-badge.png" width="120" alt="AWS Certified Solutions Architect Associate">
-</a>
-<br><br>
-<strong><bdi dir="ltr">AWS Certified Solutions Architect – Associate</bdi></strong>
-<br><br>
-<a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url" target="_blank">التحقق من الشهادة</a>
-</td>
-
-<td width="33%" align="center" valign="top">
-<h4><bdi dir="ltr">HashiCorp Certified</bdi></h4>
-<hr>
-<img src="assets/terraform-associate-004.svg" width="120" alt="HashiCorp Certified Terraform Associate 004">
-<br><br>
-<strong><bdi dir="ltr">HashiCorp Certified: Terraform Associate (004)</bdi></strong>
-</td>
-
-<td width="33%" align="center" valign="top">
-<h4><bdi dir="ltr">Cisco Certified</bdi></h4>
-<hr>
-<a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">
-<img src="assets/ccna_med.jpg" width="120" alt="Cisco Certified Network Associate">
-</a>
-<br><br>
-<strong><bdi dir="ltr">Cisco Certified Network Associate — CCNA</bdi></strong>
-<br><br>
-<a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url" target="_blank">التحقق من الشهادة</a>
-</td>
-
-</tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">
+        <img src="assets/aws-saa-badge.png" width="115" alt="شارة AWS Certified Solutions Architect – Associate">
+      </a>
+      <br><br>
+      <strong>AWS Certified Solutions Architect – Associate</strong>
+      <br><br>
+      <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">التحقق من الشهادة</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <!-- أضف رابط التحقق من شهادة Terraform إلى الصورة وأسفلها عند توفره. -->
+      <img src="assets/terraform-associate-004.svg" width="105" alt="شارة HashiCorp Certified: Terraform Associate (004)">
+      <br><br>
+      <strong>HashiCorp Certified:<br>Terraform Associate (004)</strong>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">
+        <img src="assets/ccna_med.jpg" width="115" alt="شارة Cisco Certified Network Associate">
+      </a>
+      <br><br>
+      <strong>Cisco Certified Network Associate (CCNA)</strong>
+      <br><br>
+      <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">التحقق من الشهادة</a>
+    </td>
+  </tr>
 </table>
+
+---
+
+<h2 dir="rtl">تواصل معي</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="المملكة العربية السعودية">
+  <img src="https://img.shields.io/badge/Mobility-Open_to_Riyadh_%26_Nationwide-2EA44F?style=flat-square" alt="متاح للانتقال إلى الرياض والعمل في مختلف مناطق المملكة">
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="التواصل مع منصور الحربي على LinkedIn"></a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Outlook-Send_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="إرسال بريد إلكتروني إلى منصور الحربي"></a>
+  <br><br>
+  <sub dir="rtl">البريد: <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com">mansour-alharbi@outlook.com</a></sub>
+</p>
+
+<p align="center" dir="rtl">
+  <sub>كل نتيجة مذكورة هنا معها توثيق وأدلة داخل مستودع المشروع.</sub>
+</p>
