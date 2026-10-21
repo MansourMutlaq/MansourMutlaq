@@ -158,13 +158,18 @@ An Information Technology capstone project combining ESP32-based control, IoT co
       <br><br>
       <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">Verify credential</a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <!-- Add the Terraform credential URL to this image and a verification link when available. -->
-      <img src="assets/terraform-associate-004.svg" width="105" alt="HashiCorp Certified: Terraform Associate (004) badge">
+
+  <td width="33%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/a8118dc7-ab46-4948-a71a-5cc8d87c5d73/public_url">
+        <img src="assets/hashicorp-certified-terraform-associate-004.png" width="115" alt="HashiCorp Certified: Terraform Associate (004) badge">
+      </a>
       <br><br>
       <strong>HashiCorp Certified:<br>Terraform Associate (004)</strong>
+      <br><br>
+      <a href="https://www.credly.com/badges/a8118dc7-ab46-4948-a71a-5cc8d87c5d73/public_url">Verify credential</a>
     </td>
-    <td width="33%" align="center" valign="top">
+
+   <td width="33%" align="center" valign="top">
       <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">
         <img src="assets/ccna_med.jpg" width="115" alt="Cisco Certified Network Associate badge">
       </a>
@@ -178,18 +183,24 @@ An Information Technology capstone project combining ESP32-based control, IoT co
 
 ---
 
+
 ## Contact
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="Saudi Arabia">
-  <img src="https://img.shields.io/badge/Mobility-Open_to_Riyadh_%26_Nationwide-2EA44F?style=flat-square" alt="Open to Riyadh and nationwide opportunities">
+  <img src="https://img.shields.io/badge/Mobility-Open_to_Relocation_Across_Saudi_Arabia-2EA44F?style=flat-square" alt="Open to relocation across Saudi Arabia">
+  <img src="https://img.shields.io/badge/Work_On--site_%7C_Hybrid_%7C_Remote-0078D4?style=flat-square" alt="Open to on-site, hybrid, and remote opportunities">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Mansour Alharbi on LinkedIn"></a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Outlook-Send_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send an email to Mansour Alharbi"></a>
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Mansour Alharbi on LinkedIn">
+  </a>
+  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Send_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Send an email to Mansour Alharbi">
+  </a>
   <br><br>
-  <sub>Direct email: <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com">mansour-alharbi@outlook.com</a></sub>
+  <sub>Direct email: <a href="mailto:mansour-alharbi@outlook.com">mansour-alharbi@outlook.com</a></sub>
 </p>
 
 <p align="center">
