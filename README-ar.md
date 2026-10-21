@@ -1,3 +1,4 @@
+
 <div align="left">
   <a href="./README.md"><strong>English</strong></a>
   &nbsp;|&nbsp;
@@ -15,18 +16,28 @@
 </p>
 
 <p align="center" dir="rtl">
-  أنا منصور، خريج تقنية معلومات سعودي، ومهتم بالبنية التحتية السحابية والشبكات والأتمتة. أطبق اللي تعلمته بمشاريع عملية على AWS وLinux وCisco، وأحرص إن شغلي يكون آمن، مرتب، موثق، وقابل للاختبار.
+  أنا منصور، خريج تقنية معلومات من جامعة القصيم، واهتمامي بالبنية التحتية السحابية، وتشغيل الشبكات، وأتمتة الأنظمة. أطبّق اللي أتعلمه من خلال مشاريع عملية باستخدام AWS وTerraform وLinux وCisco، وأحرص إن شغلي يكون آمن، مرتب، موثق، وقابل للاختبار.
 </p>
 
 <p align="center">
-  <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate"></a>
-  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_(004)-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate (004)">
-  <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url"><img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate"></a>
+  <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">
+    <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified Solutions Architect – Associate">
+  </a>
+  <a href="https://www.credly.com/badges/a8118dc7-ab46-4948-a71a-5cc8d87c5d73/public_url">
+    <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate_(004)-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HashiCorp Certified: Terraform Associate (004)">
+  </a>
+  <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">
+    <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Certified Network Associate">
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="حساب منصور الحربي على LinkedIn"></a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="التواصل مع منصور الحربي عبر البريد الإلكتروني"></a>
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="حساب منصور الحربي على LinkedIn">
+  </a>
+  <a href="mailto:mansour-alharbi@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="التواصل عبر البريد الإلكتروني">
+  </a>
   <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="المملكة العربية السعودية">
   <img src="https://img.shields.io/badge/Availability-Open_to_Opportunities-2EA44F?style=flat-square" alt="متاح للفرص الوظيفية">
 </p>
@@ -37,9 +48,13 @@
 
 ## نبذة عني
 
-معي شهادات **AWS Certified Solutions Architect – Associate** و**HashiCorp Certified: Terraform Associate (004)** و**Cisco Certified Network Associate (CCNA)**. ما أكتفي بالمعلومات النظرية؛ أطبقها بمشاريع موثقة فيها تصميم واضح، إعدادات آمنة، اختبارات آلية، ونتائج تقدر ترجع لها وتتأكد منها.
+حاصل على ثلاث شهادات احترافية: **CCNA**، و**AWS Certified Solutions Architect – Associate**، و**HashiCorp Certified: Terraform Associate (004)**.
 
-حاليًا أبحث عن فرصة أبدأ فيها مساري المهني بمجال **Cloud Infrastructure** أو**Network Engineering** أو**Infrastructure Automation** أو**IT Operations** داخل السعودية.
+ما أكتفي بالمعرفة النظرية؛ أحرص على تطبيق اللي أتعلمه في مشاريع تقنية موثقة، تشمل أتمتة الشبكات، وتحليل سجلات البنية التحتية، وتنفيذ الاختبارات الآلية والتحقق من النتائج.
+
+أطمح أبدأ مسيرتي المهنية ضمن فريق هندسي متخصص في **Cloud Operations** أو **IT Infrastructure** أو **Network Operations**، أتعلم من خبراته وأساهم معه في تشغيل الأنظمة وتطويرها.
+
+متاح للفرص الوظيفية في مختلف مناطق المملكة، ومستعد للانتقال حسب متطلبات العمل، سواء كان حضوريًا أو هجينًا أو عن بُعد.
 
 </div>
 
@@ -94,17 +109,19 @@
 
 <div dir="rtl">
 
-هذا المشروع سويته لأتمتة مهام شبكات Cisco IOS باستخدام Python، وطبقته داخل لاب EVE-NG فيه ستة أجهزة. المشروع يقرأ بيانات الأجهزة من ملفات YAML، ويحمل بيانات الدخول بشكل آمن وقت التشغيل، ويفحص اتصال SSH باستخدام Netmiko، ويسوي نسخ احتياطية مؤرخة للإعدادات، ويجهز Configurations عن طريق Jinja2، وفيه خطوات منظمة للتطبيق والتراجع مع Logging وتقارير واضحة.
+هذا المشروع بنيته لأتمتة مهام شبكات Cisco IOS باستخدام Python، وطبّقته داخل مختبر EVE-NG يضم ستة أجهزة.
+
+المشروع يقرأ بيانات الأجهزة من ملفات YAML، ويحمّل بيانات الدخول بشكل آمن وقت التشغيل، ويتحقق من اتصال SSH باستخدام Netmiko. كذلك ينفذ نسخًا احتياطية مؤرخة لإعدادات الأجهزة، ويجهز قوالب التهيئة باستخدام Jinja2، مع خطوات منظمة لتنفيذ التغييرات والتراجع عنها، وتسجيل العمليات وإصدار التقارير.
 
 **النتائج اللي تحققت منها**
 
-- اتصال SSH اشتغل بنجاح على **6/6 أجهزة Cisco IOS**
-- أخذت نسخة احتياطية من Running Configuration لكل **6/6 أجهزة**
-- نجحت جميع الاختبارات الآلية بنتيجة **30/30 اختبار pytest**
+- نجح اتصال SSH على **6/6 أجهزة Cisco IOS**.
+- اكتملت النسخ الاحتياطية لإعدادات Running Configuration على **6/6 أجهزة**.
+- اجتازت الاختبارات الآلية جميع الحالات بنتيجة **30/30 اختبارًا باستخدام pytest**.
 
 **التقنيات:** Python · Netmiko · YAML · Jinja2 · pytest · Cisco IOS · EVE-NG
 
-[شوف المشروع والكود ونتائج الاختبارات ←](https://github.com/MansourMutlaq/Cisco-Network-Automation)
+[استعرض المشروع ونتائج الاختبارات ←](https://github.com/MansourMutlaq/Cisco-Network-Automation)
 
 </div>
 
@@ -125,18 +142,20 @@
 
 <div dir="rtl">
 
-هذا المشروع يجمع أحداث AWS CloudTrail وسجلات تسجيل الدخول في Linux وLogs من أجهزة Cisco IOS بمكان واحد. يوحد البيانات بصيغة قريبة من Elastic Common Schema (ECS)، وبعدها يطبق Detection Rules، ويحسب مستوى الخطورة، ويربط الأحداث اللي لها علاقة ببعض، ويطلع تقارير HTML وJSON وCSV، ويقدر يرسل النتائج إلى OpenSearch.
+هذا المشروع يجمع أحداث AWS CloudTrail، وسجلات تسجيل الدخول في Linux، وسجلات أجهزة Cisco IOS داخل مسار تحليل موحّد.
+
+يوحّد البيانات وفق نموذج مستوحى من Elastic Common Schema (ECS)، وبعدها يطبق قواعد الكشف (Detection Rules)، ويحسب مستوى الخطورة، ويربط الأحداث المرتبطة ببعضها، ويصدر تقارير بصيغ HTML وJSON وCSV، مع إمكانية فهرسة النتائج في OpenSearch.
 
 **النتائج اللي تحققت منها**
 
-- نجحت جميع الاختبارات بنتيجة **47/47** ووصلت تغطية الاختبارات إلى **92.98%**
-- شغلت CI على إصدارات **Python 3.12 و3.13 و3.14** عن طريق GitHub Actions
-- نجح فحص جودة الكود باستخدام Ruff والفحص الأمني باستخدام Bandit
-- أرسلت **15 حدثًا موحدًا و10 تنبيهات مترابطة** إلى بيئة OpenSearch وشفت النتائج فعليًا
+- اجتازت الاختبارات الآلية جميع الحالات بنتيجة **47/47**، مع تغطية برمجية بلغت **92.98%**.
+- اختبرت تكامل CI مع إصدارات **Python 3.12 و3.13 و3.14** باستخدام GitHub Actions.
+- اجتاز الكود فحوص Ruff لجودة الكود وBandit للفحص الأمني.
+- فهرست **15 حدثًا موحدًا و10 تنبيهات مترابطة** داخل بيئة OpenSearch، وتحققت من النتائج عمليًا.
 
 **التقنيات:** Python · AWS CloudTrail · Linux authentication logs · Cisco IOS · OpenSearch · Docker Compose · GitHub Actions · pytest · Ruff · Bandit · Jinja2
 
-[شوف المشروع والكود ونتائج الاختبارات ←](https://github.com/MansourMutlaq/infrastructure-security-analytics)
+[استعرض المشروع ونتائج الاختبارات ←](https://github.com/MansourMutlaq/infrastructure-security-analytics)
 
 </div>
 
@@ -156,18 +175,20 @@
 
 <div dir="rtl">
 
-هذا مشروع تخرجي، وفكرته كرسي متحرك ذكي يعتمد على ESP32 وIoT. يجمع بين اكتشاف العوائق، ومتابعة بعض المؤشرات الصحية، وتحديد الموقع عن طريق GPS، والاستفادة من الطاقة الشمسية؛ والهدف منه رفع مستوى أمان المستخدم ومساعدته على التنقل.
+هذا مشروع تخرجي من جامعة القصيم، وفكرته كرسي متحرك ذكي يعتمد على ESP32 وتقنيات إنترنت الأشياء (IoT).
 
-**وش كان دوري بالمشروع**
+يجمع المشروع بين اكتشاف العوائق، ومتابعة بعض المؤشرات الصحية، وتحديد الموقع باستخدام GPS، والاستفادة من الطاقة الشمسية. والهدف منه تحسين أمان المستخدم ومساعدته على التنقل.
 
-- قدت تصميم المشروع والتنسيق التقني وتوزيع العمل بين أعضاء الفريق
-- شاركت في ربط ESP32 واتصال IoT والمستشعرات المسؤولة عن وظائف الأمان
-- نفذت منطق يعتمد على أكثر من مستشعر لاكتشاف العوائق وإطلاق التنبيهات
-- وثقت تصميم النظام، وربط مكونات الهاردوير، وطريقة تشغيله
+**وش كان دوري بالمشروع؟**
+
+- قدت تصميم المشروع والتنسيق التقني وتوزيع المهام بين أعضاء الفريق.
+- شاركت في ربط ESP32 واتصال IoT والمستشعرات المرتبطة بوظائف الأمان.
+- نفذت منطقًا يعتمد على أكثر من مستشعر لاكتشاف العوائق وإطلاق التنبيهات.
+- وثقت تصميم النظام، وربط مكونات الهاردوير، وطريقة تشغيله.
 
 **التقنيات:** ESP32 · C/C++ · IoT sensors · GPS · Embedded systems · Solar energy
 
-[شوف المشروع والكود والتوثيق ←](https://github.com/MansourMutlaq/IoT-Smart-Wheelchair)
+[استعرض المشروع والتوثيق ←](https://github.com/MansourMutlaq/IoT-Smart-Wheelchair)
 
 </div>
 
@@ -186,13 +207,18 @@
       <br><br>
       <a href="https://www.credly.com/badges/dc16e4e2-440d-4ae5-a1af-97329eef6867/public_url">التحقق من الشهادة</a>
     </td>
-    <td width="33%" align="center" valign="top">
-      <!-- أضف رابط التحقق من شهادة Terraform إلى الصورة وأسفلها عند توفره. -->
-      <img src="assets/terraform-associate-004.svg" width="105" alt="شارة HashiCorp Certified: Terraform Associate (004)">
+
+   <td width="33%" align="center" valign="top">
+      <a href="https://www.credly.com/badges/a8118dc7-ab46-4948-a71a-5cc8d87c5d73/public_url">
+        <img src="assets/hashicorp-certified-terraform-associate-004.png" width="115" alt="شارة HashiCorp Certified: Terraform Associate (004)">
+      </a>
       <br><br>
       <strong>HashiCorp Certified:<br>Terraform Associate (004)</strong>
+      <br><br>
+      <a href="https://www.credly.com/badges/a8118dc7-ab46-4948-a71a-5cc8d87c5d73/public_url">التحقق من الشهادة</a>
     </td>
-    <td width="33%" align="center" valign="top">
+
+  <td width="33%" align="center" valign="top">
       <a href="https://www.credly.com/badges/926aefcd-e73c-46cc-99fd-5a865908ab21/public_url">
         <img src="assets/ccna_med.jpg" width="115" alt="شارة Cisco Certified Network Associate">
       </a>
@@ -210,16 +236,21 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Saudi_Arabia-006C35?style=flat-square" alt="المملكة العربية السعودية">
-  <img src="https://img.shields.io/badge/Mobility-Open_to_Riyadh_%26_Nationwide-2EA44F?style=flat-square" alt="متاح للانتقال إلى الرياض والعمل في مختلف مناطق المملكة">
+  <img src="https://img.shields.io/badge/Mobility-Open_to_Relocation_Across_Saudi_Arabia-2EA44F?style=flat-square" alt="متاح للانتقال والعمل في مختلف مناطق المملكة">
+  <img src="https://img.shields.io/badge/Work_On--site_%7C_Hybrid_%7C_Remote-0078D4?style=flat-square" alt="متاح للعمل الحضوري والهجين وعن بُعد">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mansour-mu-alharbi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="التواصل مع منصور الحربي على LinkedIn"></a>
-  <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com"><img src="https://img.shields.io/badge/Outlook-Send_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="إرسال بريد إلكتروني إلى منصور الحربي"></a>
+  <a href="https://www.linkedin.com/in/mansour-mu-alharbi">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="التواصل مع منصور الحربي على LinkedIn">
+  </a>
+  <a href="mailto:mansour-alharbi@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-Send_Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="إرسال بريد إلكتروني إلى منصور الحربي">
+  </a>
   <br><br>
-  <sub dir="rtl">البريد: <a href="https://outlook.live.com/mail/0/deeplink/compose?to=mansour-alharbi@outlook.com">mansour-alharbi@outlook.com</a></sub>
+  <sub dir="rtl">البريد: <a href="mailto:mansour-alharbi@outlook.com">mansour-alharbi@outlook.com</a></sub>
 </p>
 
 <p align="center" dir="rtl">
-  <sub>كل نتيجة مذكورة هنا معها توثيق وأدلة داخل مستودع المشروع.</sub>
+  <sub>جميع النتائج المذكورة مدعومة بالتوثيق وأدلة الاختبارات الموجودة في مستودعات المشاريع.</sub>
 </p>
